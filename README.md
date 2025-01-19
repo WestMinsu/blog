@@ -1,1 +1,1 @@
-# blog
+https://westminsu.github.io/blog/
